@@ -2,7 +2,7 @@ package com.rojer_ko.interviewhw2.report
 
 class Report {
 
-    //пришлось уюрать приватность, иначе не смог получить доступ для использования
+    //пришлось убрать приватность, иначе не смог получить доступ для использования
     val items: MutableList<ReportItem> = mutableListOf()
 
     fun calculate(){
