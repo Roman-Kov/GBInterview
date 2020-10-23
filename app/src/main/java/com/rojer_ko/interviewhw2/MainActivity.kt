@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.rojer_ko.interviewhw2.meteostation.MeteoActivity
+import com.rojer_ko.interviewhw2.report.ReportActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
