@@ -12,5 +12,7 @@ class ReportActivity : AppCompatActivity() {
         val report = Report()
         report.calculate()
         report.output()
+        ReportDecorator(report).output(ShowReport())
+        ReportDecorator(report).output(SaveReport())
     }
 }
