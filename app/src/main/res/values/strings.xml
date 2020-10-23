@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewHW2</string>
+    <string name="to_meteo_station"><![CDATA[to Meteo Station —>]]></string>
+    <string name="to_billing_report"><![CDATA[to Billing Report —>]]></string>
+    <string name="use_ms200_sensor">Save info from MS200 sensor</string>
+    <string name="use_st500_sensor">Save info from ST500 sensor</string>
+    <string name="text_log">text Log</string>
+</resources>
